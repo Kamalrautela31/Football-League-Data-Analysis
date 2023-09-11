@@ -6,7 +6,6 @@ This repository contains examples and projects demonstrating how to perform data
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Analysis Performed](#Analysis_Performed)
 
 
@@ -23,14 +22,6 @@ To run the examples and projects in this repository, you'll need the following i
 - SQL database (e.g., SQLite, MySQL, PostgreSQL)
 - Jupyter Notebook (optional but recommended)
 
-
-
-## Installation
-
-1. Clone this repository to your local machine using the following command:
-
-`bash
-git clone https://github.com/your-username/data-analysis-python-sql.git
 
 ## Analysis Performed
 
