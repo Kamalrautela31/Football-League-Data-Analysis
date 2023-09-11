@@ -7,8 +7,8 @@ This repository contains examples and projects demonstrating how to perform data
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Examples](#examples)
-- [Contributing](#contributing)
+- [Analysis Performed](#Analysis Performed)
+
 
 
 ## Introduction
